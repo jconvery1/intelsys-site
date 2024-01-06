@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>www.intelsys.uk is currently under development, come back soon!</h1>
+        <h1 width="inherit">www.intelsys.uk is currently under development, come back soon!</h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -33,11 +33,6 @@
         </ul>
         {% endif %}
       </header>
-      <section>
-
-      {{ content }}
-
-      </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
