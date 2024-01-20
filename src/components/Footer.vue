@@ -4,7 +4,7 @@
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
               <a href="https://intelsys.uk/" class="flex items-center">
-                  <img src="../assets/images/intelsys_text.jpg" class="h-6 me-3" alt="FlowBite Logo" />
+                  <img src="../assets/images/intelsys_text.jpg" class="h-6 me-3" alt="Intelsys Ltd." />
               </a>
           </div>
           <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">

@@ -14,7 +14,7 @@
           <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div class="flex flex-shrink-0 items-center">
               <a href="https://intelsys.uk/">
-                <img class="grayscale h-8 w-auto" src="../assets/images/intelsys_text.jpg" alt="Your Company" />
+                <img class="grayscale h-8 w-auto" src="../assets/images/intelsys_text.jpg" alt="Intelsys Ltd." />
               </a>
             </div>
             <div class="hidden sm:ml-6 sm:block">
@@ -46,8 +46,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 
 const navigation = [
   { name: 'Home', href: '/', current: false },
-  { name: 'What We Do', href: '/about', current: false },
-  { name: 'Contact Us', href: '/contact', current: false }
+  { name: 'What We Do', href: '/#/about', current: false },
+  { name: 'Contact Us', href: '/#/contact', current: false }
 ]
 </script>
 <style scoped>
