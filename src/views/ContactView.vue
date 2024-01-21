@@ -18,7 +18,7 @@ import Map from '../components/Map.vue'
           <div class="flex flex-col py-3">
               <dd class="text-base md:text-xl">Address</dd>
               <dd class="text-xl md:text-3xl font-semibold">
-                14 Sandholes Rd
+                14 Sandholes Road
               </dd>
               <dd class="text-xl md:text-3xl font-semibold">
                 Cookstown
