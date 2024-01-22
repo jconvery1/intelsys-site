@@ -4,10 +4,10 @@
 <template>
   <div class="relative h-screen overflow-hidden before:block before:absolute before:h-full before:w-full before:top-0 before:left-0 before:z-10 before:bg-black before:opacity-30">
     <img src="../assets/images/digger-vertical.jpg" class="grayscale md:hidden absolute top-0 left-0 min-h-full ob" alt="">
-    <!-- <img src="../assets/images/digger.jpg" class="hidden md:block absolute top-0 left-0 min-h-full ob" alt=""> -->
-    <video autoplay muted loop id="myVideo" class="hidden md:block absolute top-0 left-0 min-h-full ob">
+    <img src="../assets/images/digger.jpg" class="hidden md:block absolute top-0 left-0 min-h-full ob" alt="">
+    <!-- <video autoplay muted loop id="myVideo" class="hidden md:block absolute top-0 left-0 min-h-full ob">
       <source src="../assets/images/bucket-trimmed.mp4" type="video/mp4">
-    </video>
+    </video> -->
     <div class="relative z-20 max-w-screen-lg mx-auto grid grid-cols-12 h-full items-center">
       <div id="fade" class="col-span-6">
         <span class="uppercase text-white text-xs font-bold mb-2 block ml-6 md:ml-0">WE ARE EXPERTS</span>
