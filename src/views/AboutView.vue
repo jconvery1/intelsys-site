@@ -69,7 +69,8 @@
     </div>
   </div>
   <div class="relative h-screen overflow-hidden before:block before:absolute before:h-full before:w-full before:top-0 before:left-0 before:z-10 before:bg-black before:opacity-30">
-    <img src="../assets/images/engineer.jpeg" class="absolute top-0 left-0 min-h-full ob" alt="">
+    <img src="../assets/images/excavator-vertical.jpg" class="grayscale md:hidden absolute top-0 left-0 min-h-full ob" alt="">
+    <img src="../assets/images/engineer.jpeg" class="hidden md:block absolute top-0 left-0 min-h-full ob" alt="">
     <div class="relative z-20 max-w-screen-lg mx-auto flex md:grid grid-cols-12 h-full items-center">
       <div id="fade" class="col-span-6">
         <div>
