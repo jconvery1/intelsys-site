@@ -25,6 +25,9 @@
               <RouterLink to="/what-we-do" class="text-white hover:bg-zinc-700 hover:text-white rounded-md px-3 py-2 text-sm font-bold" activeClass="bg-zinc-700 text-white hover:bg-zinc-700 hover:text-white">
                 What We Do
               </RouterLink>
+              <RouterLink to="/our-mission" class="text-white hover:bg-zinc-700 hover:text-white rounded-md px-3 py-2 text-sm font-bold" activeClass="bg-zinc-700 text-white hover:bg-zinc-700 hover:text-white">
+                Our Mission
+              </RouterLink>
               <RouterLink to="/contact" class="text-white hover:bg-zinc-700 hover:text-white rounded-md px-3 py-2 text-sm font-bold" activeClass="bg-zinc-700 text-white hover:bg-zinc-700 hover:text-white">
                 Contact Us
               </RouterLink>
@@ -50,6 +53,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 const navigation = [
 { name: 'Home', href: '/', current: false },
 { name: 'What We Do', href: '/#/what-we-do', current: false },
+{ name: 'Our Mission', href: '/#/our-mission', current: false },
 { name: 'Contact Us', href: '/#/contact', current: false }
 ]
 </script>
