@@ -14,7 +14,7 @@
         <p class="text-stone-100 text-base font-semibold ml-6 md:ml-0">
           We specialise in crafting intelligent solutions that seamlessly integrate with machinery, setting new standards for precision, adaptability, and operational excellence.
         </p>
-        <a class="ml-6 md:ml-0" href="/#/about">
+        <a class="ml-6 md:ml-0" href="/#/what-we-do">
           <button class="mt-8 text-white uppercase py-4 text-base font-semibold px-10 border border-white hover:bg-white hover:bg-opacity-10">learn more</button>
         </a>
       </div>
