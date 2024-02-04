@@ -3,7 +3,7 @@
 
 <template>
   <div class="relative h-screen overflow-hidden before:block before:absolute before:h-full before:w-full before:top-0 before:left-0 before:z-10 before:bg-black before:opacity-30">
-    <img src="../assets/images/dumper-vertical.jpg" class="grayscale md:hidden absolute top-0 left-0 min-h-full ob" alt="">
+    <img src="../assets/images/dumper-vertical.jpg" class="grayscale-[75%] md:hidden absolute top-0 left-0 min-h-full ob" alt="">
     <video autoplay muted loop id="myVideo" class="hidden md:block absolute top-0 left-0 min-h-full ob" preload="auto">
       <source src="../assets/videos/bucket-excavator.mp4" type="video/mp4">
     </video>
