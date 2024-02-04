@@ -49,7 +49,7 @@
           Our team of skilled support engineers is dedicated to ensuring a seamless integration of our technologies into your operational environment, wherever you located.
           Whether it's fine-tuning during the commissioning phase or addressing ongoing maintenance needs, our experts are readily available to provide hands-on assistance.
           This commitment to on-site support not only underscores our dedication to client success but also ensures that our solutions operate at peak performance,
-          minimizing downtime and maximizing the efficiency of your machinery.
+          minimising downtime and maximising the efficiency of your machinery.
           With Intelsys, you gain a trusted partner committed to the success of your operations through comprehensive on-site support.
         </p>
       </div>
