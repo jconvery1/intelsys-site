@@ -30,10 +30,6 @@ import Map from '../components/Map.vue'
                 BT80 9AR
               </dd>
           </div>
-          <div class="flex flex-col pt-3">
-              <dd class="text-base md:text-xl">Phone</dd>
-              <dd class="text-xl md:text-3xl font-semibold">07864266125</dd>
-          </div>
         </dl>
       </div>
       <div id="fade" class="hidden col-span-6 pl-12 md:pl-0 md:flex">
@@ -56,10 +52,6 @@ import Map from '../components/Map.vue'
               <dd class="text-xl md:text-3xl font-semibold">
                 BT80 9AR
               </dd>
-          </div>
-          <div class="flex flex-col pt-3">
-              <dd class="text-base md:text-xl">Phone</dd>
-              <dd class="text-xl md:text-3xl font-semibold">07864266125</dd>
           </div>
         </dl>
       </div>

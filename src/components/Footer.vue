@@ -19,10 +19,7 @@
           </div>
       </div>
       <hr class="my-6 sm:mx-auto border-gray-700 lg:my-8" />
-      <div class="sm:flex sm:items-center sm:justify-between">
-          <span class="text-sm sm:text-center text-gray-400">© 2024 <a href="https://intelsys.uk/" class="hover:underline">Intelsys™</a>. All Rights Reserved.
-          </span>
-      </div>
+      <div class="sm:flex sm:items-center sm:justify-between" />
     </div>
 </footer>
 </template>
