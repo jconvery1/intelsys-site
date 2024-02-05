@@ -13,7 +13,7 @@ import Map from '../components/Map.vue'
         <dl class="max-w-md divide-y divide-white text-white">
           <div class="flex flex-col pb-3">
               <dd class="text-base md:text-xl">Email</dd>
-              <dd class="text-xl md:text-3xl font-semibold">martin@intelsys.uk</dd>
+              <dd class="text-xl md:text-3xl font-semibold">sales@intelsys.uk</dd>
           </div>
           <div class="flex flex-col py-3">
               <dd class="text-base md:text-xl">Address</dd>
@@ -36,7 +36,7 @@ import Map from '../components/Map.vue'
         <dl class="max-w-md divide-y divide-white text-white">
           <div class="flex flex-col pb-3">
               <dd class="text-base md:text-xl">Email</dd>
-              <dd class="text-xl md:text-3xl font-semibold">martin@intelsys.uk</dd>
+              <dd class="text-xl md:text-3xl font-semibold">sales@intelsys.uk</dd>
           </div>
           <div class="flex flex-col py-3">
               <dd class="text-base md:text-xl">Address</dd>
