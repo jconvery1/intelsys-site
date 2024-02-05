@@ -13,8 +13,8 @@
           <div id="fade" class="col-span-12">
             <ol class="space-y-4">
               <li>
-                <div class="flex">
-                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-5" alt="">
+                <div class="flex justify-center items-center"> <!-- Use flex container -->
+                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-3 md:mr-5" alt="">
                   <div class="grid">
                     <strong>Professionalism:</strong>
                     <p>We take pride in our unwavering commitment to professionalism in everything we do. Our team at Intelsys conducts business with the highest ethical standards, ensuring that every project, interaction, and decision reflects our dedication to excellence.</p>
@@ -22,8 +22,8 @@
                 </div>
               </li>
               <li>
-                <div class="flex">
-                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-5" alt="">
+                <div class="flex justify-center items-center"> <!-- Use flex container -->
+                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-3 md:mr-5" alt="">
                   <div class="grid">
                     <strong>Accountability:</strong>
                     <p>Accountability is not just a word; it's a fundamental principle at Intelsys. We take full responsibility for our actions and the results we deliver. You can trust Intelsys to meet deadlines and exceed expectations.</p>
@@ -31,8 +31,8 @@
                 </div>
               </li>
               <li>
-                <div class="flex">
-                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-5" alt="">
+                <div class="flex justify-center items-center"> <!-- Use flex container -->
+                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-3 md:mr-5" alt="">
                   <div class="grid">
                     <strong>Quality:</strong>
                     <p>Quality is a cornerstone of our work at Intelsys. Our Engineers are obsessed with delivering top-notch solutions and services that consistently exceed industry standards.</p>
@@ -40,8 +40,8 @@
                 </div>
               </li>
               <li>
-                <div class="flex">
-                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-5" alt="">
+                <div class="flex justify-center items-center"> <!-- Use flex container -->
+                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-3 md:mr-5" alt="">
                   <div class="grid">
                     <strong>Integrity:</strong>
                     <p>Our unwavering commitment to integrity means you can trust Intelsys implicitly. We believe in transparency, honesty, and doing what's right, even when no one is watching.</p>
@@ -49,8 +49,8 @@
                 </div>
               </li>
               <li>
-                <div class="flex">
-                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-5" alt="">
+                <div class="flex justify-center items-center"> <!-- Use flex container -->
+                  <img src="../assets/images/new_intelsys_logo.png" class="w-6 h-6 md:w-12 md:h-12 mr-3 md:mr-5" alt="">
                   <div class="grid">
                     <strong>Innovation:</strong>
                     <p>Innovation drives us forward. Our team at Intelsys is constantly exploring new ideas, technologies, and strategies to provide you with cutting-edge solutions tailored to your needs.</p>
