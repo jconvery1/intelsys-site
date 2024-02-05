@@ -8,7 +8,7 @@
     <div class="relative z-20 max-w-screen-lg mx-auto grid grid-cols-12 h-full items-center">
       <div id="fade" class="col-span-12">
         <span class="uppercase text-white text-xs font-bold mb-2 hidden md:block ml-6 md:ml-0">WHAT WE STAND FOR</span>
-        <h1 class="text-white font-extrabold mb-6 text-s md:text-5xl ml-6 md:ml-0">At Intelsys, we stand out from the competition for several compelling reasons:</h1>
+        <h1 class="text-white font-extrabold mb-6 text-s md:text-5xl ml-3 mr-3 md:ml-0 md:mr-0">At Intelsys, we stand out from the competition for several compelling reasons:</h1>
         <div class="grid grid-cols-12 text-stone-100 lg:text-base text-xs md:text-3xl font-semibold">
           <div id="fade" class="col-span-12">
             <ol class="space-y-4">
