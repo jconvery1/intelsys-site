@@ -1,35 +1,14 @@
-# intelsys-vue
+# Intelsys Website
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a website I made for Intelsys Ltd. It is a SPA (single page application) built using Vue3.
 
-## Recommended IDE Setup
+## About Intelsys
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Intelsys is a technology company focused on delivering software solutions for machine control,
+The site URL is [www.intelsys.uk](http://www.intelsys.uk).
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- **Vue3 and Vite**: Built using Vue3 and Vite, The website boasts a modern architecture for efficient performance and development.
+- **Tailwind CSS**: Tailwind CSS was used to style the website and give it a simple, minimalist look.
+- **Google Maps API**: I integrated Google Maps to display the company location.
