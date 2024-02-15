@@ -1,3 +1,5 @@
+![Intelsys Logo](Intelsys_logo_Intelsys_logo_White.png)
+
 # Intelsys Website
 
 This is a website I made for Intelsys Ltd. It is a SPA (single page application) built using Vue3.
